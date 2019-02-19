@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css"
+    />
+    <link rel="stylesheet" href="./styles/styles.css" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Sprite Animation Test</title>
+  </head>
+
+  <body>
+    <div id="demo">
+      <h1>
+        Both sprites below have the defaultPosition set to 'top-left', therefore
+        they go from top left to bottom right
+      </h1>
+      <div class="wrapper">
+        <div class="image" data-animation-src="./sprites/bird_sprite.png"></div>
+      </div>
+      <div class="wrapper">
+        <div
+          class="image image-two"
+          data-animation-src="./sprites/monster_sprite.png"
+        ></div>
+      </div>
+    </div>
+  </body>
+  <script src="./dist/demo.js"></script>
+</html>

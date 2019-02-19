@@ -1,0 +1,26 @@
+{
+  "name": "novicell-sprite-animation",
+  "version": "1.0.0",
+  "description": "Used to animate spritesheets",
+  "main": "dist/demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Novicell/novicell-sprite-animation.git"
+  },
+  "keywords": [
+    "sprite",
+    "sprites",
+    "spritesheet",
+    "animation",
+    "novicell"
+  ],
+  "author": "henrikschytze",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Novicell/novicell-sprite-animation/issues"
+  },
+  "homepage": "https://github.com/Novicell/novicell-sprite-animation#readme"
+}
