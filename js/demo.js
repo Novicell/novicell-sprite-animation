@@ -1,7 +1,7 @@
-import { SpriteAnimation } from "../dist/app.bundle.js";
+import { spriteAnimation } from "../dist/app.bundle.js";
 
 window.onload = function() {
-  let animationOne = new SpriteAnimation({
+  let animationOne = new spriteAnimation({
     element: "image",
     frames: 8,
     duration: 600,
@@ -9,7 +9,7 @@ window.onload = function() {
     rows: 2,
     iterations: 10
   });
-  let animationTwo = new SpriteAnimation({
+  let animationTwo = new spriteAnimation({
     element: "image.image-two",
     frames: 24,
     duration: 600,

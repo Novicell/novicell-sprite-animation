@@ -1,4 +1,4 @@
-export class SpriteAnimation {
+export const spriteAnimation = class SpriteAnimation {
   constructor({
     element,
     frames,
