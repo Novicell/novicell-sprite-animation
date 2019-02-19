@@ -32,7 +32,7 @@ Create a div wrapper place the sprite path as a data-attribute:
 In your javascript, import the module
 
 ```javascript
-import {SpriteAnimation} from './dist/spriteAnimation';
+import {SpriteAnimation} from 'novicell-sprite-animation';
 ```
 
 ## Example
