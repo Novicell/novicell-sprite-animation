@@ -54,9 +54,8 @@ Once created, you can call the sprite's function when you wish:
 ```javascript
 animationOne.animateSprite();
 ```
-
-To be done
-[accordionAnimate Codepen](https://codepen.io/ankeris/pen/RvBoqK)
+## Codepen
+https://codepen.io/henrikschytze/pen/WPPgJJ 
 
 ## Contribution
 
