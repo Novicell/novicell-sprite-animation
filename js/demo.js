@@ -1,4 +1,4 @@
-import { SpriteAnimation } from "./dist/spriteAnimation";
+import { SpriteAnimation } from "../dist/app.bundle.js";
 
 window.onload = function() {
   let animationOne = new SpriteAnimation({

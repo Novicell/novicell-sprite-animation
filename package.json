@@ -2,7 +2,7 @@
   "name": "novicell-sprite-animation",
   "version": "1.0.0",
   "description": "Used to animate spritesheets",
-  "main": "dist/demo.js",
+  "main": "dist/app.bundle.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
