@@ -1,6 +1,8 @@
-import { spriteAnimation } from "../dist/app.bundle.js";
+import {
+  spriteAnimation
+} from "../dist/spriteAnimation.cjs.js";
 
-window.onload = function() {
+window.onload = function () {
   let animationOne = new spriteAnimation({
     element: "image",
     frames: 8,

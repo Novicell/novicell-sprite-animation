@@ -1,6 +1,6 @@
 {
   "name": "novicell-sprite-animation",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Used to animate spritesheets",
   "main": "dist/app.bundle.js",
   "scripts": {
